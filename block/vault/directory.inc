@@ -1,0 +1,1 @@
+<?php global $path_to_zbblock; $path_to_zbblock="C:/xampp/htdocs/block/"; ?>

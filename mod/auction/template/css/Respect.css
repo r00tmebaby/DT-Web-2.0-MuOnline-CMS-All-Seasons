@@ -1,0 +1,100 @@
+* {
+    font-family:tahoma;
+    font-variant: small-caps;
+    font-size:10pt;
+}
+
+body {
+	width:100%;
+    background-color:#f4f4f4;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+table.auctiontable {
+    color:#fbfbfb;
+    border:1px solid #fffff2;
+    background-color:rgba(155,155,140,0.4);
+    border: 2px solid  #686859;
+    border-radius:10px;
+    border-top:  25px solid #efefef; 
+    padding:10px;
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 20px;
+}
+
+td.bottomauction {
+    font-family:Tahoma,Geneva,sans-serif;
+    font-size:13px;
+    padding-bottom:3px;
+    text-align:center;
+    border-bottom:1px solid #fffff2;
+}
+
+td.tdall {
+    text-align:center;
+}
+
+input {
+    border: 1px solid #000000;
+    background-color: #FFFFFF;
+    margin: 1px;
+    padding: 2px;
+}
+
+#login {
+    border: none;
+    background-color: transparent;
+    margin-bottom: -2px;
+    padding: 0px;
+}
+
+#login_response {
+    color: #FFFFFF;
+    margin-top: 10px;
+    display: none;
+}
+
+table.top {
+    background-color:#ececec;
+    color:#000000;
+    margin-top:5px;
+    border:1px solid #120200;
+	text-align:center;
+}
+
+td.toptd {
+    border-bottom:1px solid #000000;
+}
+
+.iteminfo {
+    cursor:pointer;
+}
+
+.error {
+    color: #ff3333;
+}
+
+.success {
+    color: #009933;
+}
+
+A:hover {
+    text-decoration:none;
+    color:#FF0;
+}
+
+select,option {
+    border:1px solid #000000;
+    background-color:#CECEBF;
+    margin:1px;
+    padding:0;
+	
+}
+
+A:link,A:visited,A:active {
+    text-decoration:none;
+    color:#ffffff;
+
+}

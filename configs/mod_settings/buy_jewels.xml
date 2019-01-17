@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<buyjewels_settings>
+<active>1</active> 
+<select_version>0</select_version> 
+<discount>95</discount>
+<discount_mid>85</discount_mid>
+<discount_max>70</discount_max>
+<creation_price>5</creation_price>
+<soul_price>4</soul_price>
+<bless_price>15</bless_price>
+<life_price>9</life_price>
+<stone_price>4</stone_price>
+<rena_price>8</rena_price>
+<guardian_price>25</guardian_price>
+<bm1>30</bm1>
+<bm2>60</bm2>
+<bm3>80</bm3>
+<sm1>40</sm1>
+<sm2>80</sm2>
+<sm3>120</sm3>
+<selected>0</selected>
+
+</buyjewels_settings>

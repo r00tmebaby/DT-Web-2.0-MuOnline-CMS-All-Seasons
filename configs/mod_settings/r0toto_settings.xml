@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<r0toto_settings>
+<active>1</active> 
+<pagination>20</pagination>
+<maxs>49</maxs>
+<balldesign>design-2</balldesign>
+<ballinrow>5</ballinrow>
+<win_nr>6</win_nr>
+<set_time>0</set_time>
+<timing>3</timing>
+<bet_multy>1.5</bet_multy>
+<bet_once>0</bet_once>
+<bet_res>rena</bet_res>
+<bet_amount>40</bet_amount>
+<rew_res>rena</rew_res>
+<rew_amount>80</rew_amount>
+<jackpot_on>1</jackpot_on>
+<jpot_rew>1.5</jpot_rew>
+<jpot_rew_div>0</jpot_rew_div>
+</r0toto_settings>

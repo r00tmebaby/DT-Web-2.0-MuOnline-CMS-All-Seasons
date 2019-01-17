@@ -1,0 +1,30 @@
+ # Format Files
+ AddType "application/x-httpd-php; charset=UTF-8" .php
+
+ # No View Folder
+ Options -MultiViews
+ Options -Indexes
+ 
+RewriteEngine On
+RewriteCond %{REQUEST_METHOD} ^TRACE
+RewriteRule .* - [F]
+
+ # Error
+ ErrorDocument 400 /error.php?go=400
+ ErrorDocument 402 /error.php?go=402
+ ErrorDocument 403 /error.php?go=403
+ ErrorDocument 404 /error.php?go=404
+ ErrorDocument 500 /error.php?go=500
+
+ # Max File Upload / Session Security
+ php_value upload_max_filesize 100M
+ php_value post_max_size 100M
+ php_flag register_globals off
+ php_flag session.use_trans_sid off
+ php_flag session.use_cookies on
+
+ # Config Security
+ <FilesMatch "config.php"> 
+	Order deny,allow 
+	deny from all 
+ </FilesMatch>

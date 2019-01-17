@@ -1,0 +1,30 @@
+11
+0	2	2	1	1	1	"Bronze Boots"				12		4		10		34		80		20		0		1	0	1	0	0
+1	2	2	1	1	1	"Dragon Boots"				54		15		2		68		120		30		0		1	0	1   0	0
+2	2	2	1	1	1	"Pad Boots"					4		3		10		28		20		0		1		0	0	1   0	0
+3	2	2	1	1	1	"Legendary Boots"			46		12		0		42		30		0		1		0	0	1   0	0
+4	2	2	1	1	1	"Bone Boots"				16		6		6		30		30		0		1		0	0	1   0	0
+5	2	2	1	1	1	"Leather Boots"				5		2		12		30		80		0		0		1	0	1   0	0
+6	2	2	1	1	1	"Scale Boots"				22		8		8		40		110		0		0		1	0	1   0	0
+7	2	2	1	1	1	"Sphinx Boots"				30		9		8		36		30		0		1		0	0	1   0	0
+8	2	2	1	1	1	"Brass Boots"				32		10		6		44		100		30		0		1	0	1   0	0
+9	2	2	1	1	1	"Plate Boots"				42		12		4		50		130		0		0		1	0	1   0	0
+10	2	2	1	1	1	"Vine Boots"				5		2		0		22		30		60		0		0	1	0   0	0
+11	2	2	1	1	1	"Silk Boots"				15		4		0		26		30		70		0		0	1	0   0	0
+12	2	2	1	1	1	"Wind Boots"				27		7		0		32		30		80		0		0	1	0   0	0
+13	2	2	1	1	1	"Spirit Boots"				40		10		0		38		40		80		0		0	1	0   0	0
+14	2	2	1	1	1	"Guardian Boots"			52		16		0		45		40		80		0		0	1	0   0	0
+15	2	2	1	1	1	"Unicorn Boots"				72		22		2		80		150		70		0		0	0	1   0	0
+16	2	2	1	1	1	"Black Dragon Boots"		78		24		2		74		170		60		0		1	0	0   0	0
+17	2	2	1	1	1	"Dark Phoenix Boots"		93		36		2		80		198		60		0		2	0	0   0	0
+18	2	2	1	1	1	"Grand Soul Boots"			76		22		0		67		59		10		2		0	0	0   0	0
+19	2	2	1	1	1	"Divine Boots"				81		23		0		74		50		110		0		0	2	0   0	0
+20	2	2	1	1	1	"Thunder Boots"				92		32		2		82		150		70		0		0	0	1   0	0
+21	2	2	1	1	1	"Flaming Phoenix Boots"		125		67		15		82		310		150		0		2	0	0   0	0
+22	2	2	1	1	1	"Dark Soul Boots"			110		56		15		82		100		50		2		0	0	0   0	0
+23	2	2	1	1	1	"Hurricane Boots"			112		50		15		82		250		100		0		0	0	1   0	0
+24	2	2	1	1	1	"Nature Boots"				95		32		15		82		100		120		0		0	2	0   0	0
+25	2	2	1	1	1	"Lycantropus Boots"			108		43		15		82		240		110		0		1	0	0   0	0
+26	2	2	1	1	1	"Storm Boots"				89		33		15		82		65		20		2		0	0	1   0	0
+27	2	2	1	1	1	"Magus Boots"				115		55		15		82		270		130		0		1	0	1   0	0
+28	2	2	1	1	1	"Adamantine Boots"			96		41		15		82		80		30		2		0	0	0   0	0
