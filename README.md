@@ -18,7 +18,7 @@ Some notes for all seasons version:
 <br>
 <br></p>
 <ul>
-<li>Run it with PHP version 5.6 or below ! <br></li>
+<li>It support all PHP versions from 5.2 to 7.0 <br></li>
 </ul>
 <ul>
 <li>Paypal issue with IPN has been fixed<br></li>
