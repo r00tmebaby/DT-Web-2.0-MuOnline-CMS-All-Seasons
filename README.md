@@ -115,7 +115,7 @@ PaymentWall​</div><br>
   </div>
 
 <b>
- Live Demo <a href="http://5.9.94.164:50445">DTweb 2.0</a> 
+ Live Demo <a href="http://5.9.94.164:50445/">DTweb 2.0</a> 
  <p>User: test</p>
  <p>Pass: test</p>
 </b>
