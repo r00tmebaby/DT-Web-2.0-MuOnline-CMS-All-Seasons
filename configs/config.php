@@ -5,9 +5,9 @@ if (basename(__FILE__) == basename($_SERVER['PHP_SELF'])) {header("Location:../e
 	//======Originally Developed by MeMoS and shared for DarksTeam.net Users==========================
 	//================================================================================================
 	// 3 GM steps are available 1 = Beginer GM, 2 = Trusted GM, 666 = Administrator
-	$sql_host                     = 'r00tme-pc';           // Sql server host: 127.0.0.1,localhost,Your Computer Name
-	$sql_user                     = 'sa';                  // Sql server user: sa
-	$sql_pass                     = 'zdr123';              // Sql server password
+	$sql_host                     = '';           // Sql server host: 127.0.0.1,localhost,Your Computer Name
+	$sql_user                     = '';                  // Sql server user: sa
+	$sql_pass                     = '';              // Sql server password
 	$database                     = 'MuOnline';     // Mu online database: default = MuOnline 
     $option['web_address']	      = "http://86.11.68.72";  // IP(static IP/external) or Domain Name. Must use http:// !Important for PostBacks and API's
 	$option['has_dl']             = 0;                     // (IMPORTANT) Dark Lord: 1 = enable, 0 =  disable
